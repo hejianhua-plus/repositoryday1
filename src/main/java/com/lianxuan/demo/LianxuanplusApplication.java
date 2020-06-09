@@ -10,7 +10,7 @@ public class LianxuanplusApplication {
         SpringApplication.run(LianxuanplusApplication.class, args);
 
         System.out.println(
-                "waiyy"
+                "waiyywtf"
         );
     }
 
