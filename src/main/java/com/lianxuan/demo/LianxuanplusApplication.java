@@ -25,6 +25,10 @@ public class LianxuanplusApplication {
         System.out.println(
                 "新分支4"
         );
+        System.out.println(
+                "我是开发者1"
+
+        );
     }
 
 
