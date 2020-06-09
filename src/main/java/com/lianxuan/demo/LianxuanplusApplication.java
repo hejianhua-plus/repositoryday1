@@ -16,6 +16,12 @@ public class LianxuanplusApplication {
         System.out.println(
                 "新分支"
         );
+        System.out.println(
+                "新分支2"
+        );
+        System.out.println(
+                "新分支3"
+        );
     }
 
 
